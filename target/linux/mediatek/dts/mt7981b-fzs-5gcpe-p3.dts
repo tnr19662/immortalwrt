@@ -4,7 +4,7 @@
 #include <dt-bindings/gpio/gpio.h>
 #include <dt-bindings/input/input.h>
 
-#include "mt7981.dtsi"
+#include "MT7981b-CMCC-A10.DTSI"
 
 / {
 	model = "FZS 5GCPE P3";
